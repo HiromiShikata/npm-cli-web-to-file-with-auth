@@ -15,6 +15,7 @@ Welcome to npm-cli-web-to-file-with-auth, this template os for npm command-line.
 1. Set secrets (optional)
 
    https://github.com/HiromiShikata/npm-cli-web-to-file-with-auth/settings/secrets/actions
+
    - [GH_TOKEN](https://github.com/settings/tokens)
    - [NPM_TOKEN](https://www.npmjs.com/settings/hiromi/tokens)
    - [RELEASE_APP_PRIVATE_KEY](https://github.com/settings/apps/semantic-release-changelog)
